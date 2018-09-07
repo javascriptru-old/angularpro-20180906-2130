@@ -7,6 +7,10 @@
 
 
 Дополнительные вопросы
+- compodoc: написание документации
+- тесты на jest
+- работа с indexedDB
+
 - schematics & typescript compile api: встречаются такие ситауции когда например у меня есть файл src/lib/hello.ts с таким содержанием
 ```
 import { NgModule } from '@angular/core';
