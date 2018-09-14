@@ -30,3 +30,4 @@ export class Hello {}
 P.S. Почему-то по schematics и typescript compile api очень мало информации.
 
 - сборка с помощью bazel
+- SSR только на вэбпаке, без использования CLI и angular-builders?
