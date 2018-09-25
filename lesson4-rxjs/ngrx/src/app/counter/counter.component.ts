@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Store, select } from '@ngrx/store';
 import { INCREMENT, DECREMENT } from '../counter.reducer';
+import { Observable } from 'rxjs';
 
 interface AppState {
   count: number
