@@ -11,6 +11,7 @@
 - compodoc: написание документации
 - тесты на jest
 - работа с indexedDB
+- JIT vs AOT
 
 - schematics & typescript compile api: встречаются такие ситауции когда например у меня есть файл src/lib/hello.ts с таким содержанием
 ```
